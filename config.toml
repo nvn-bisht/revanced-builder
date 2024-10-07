@@ -1,0 +1,24 @@
+# config.toml
+[Youtube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea ReVanced"
+arch = "arm64-v8a"
+build-mode = "both"
+version = "19.16.39"
+included-patches = "'Custom branding icon for YouTube'"
+patches-version = "v2.230.0-dev.4"
+integrations-version = "v0.157.0-dev.2"
+
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea ReVanced"
+arch = "arm64-v8a"
+build-mode = "both"
+version = "7.16.52"
+included-patches = "'Custom branding icon for YouTube Music'"
+patches-version = "v2.230.0-dev.4"
+integrations-version = "v0.157.0-dev.2"
